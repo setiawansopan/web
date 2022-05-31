@@ -6,4 +6,6 @@ $b = 5;
 
 $c = $a * $b;
 echo "a x b = ".$c;
+
+echo "a - b = ".$a - $b;
 ?>
